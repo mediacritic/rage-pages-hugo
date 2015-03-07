@@ -1,0 +1,3 @@
+[submodule "public"]
+	path = public
+	url = https://mediacritic@github.com/mediacritic/mediacritic.github.io.git
