@@ -81,6 +81,10 @@ footer {
     text-align: center;
 }
 
+.header-text > h2 {
+  margin-top: 0px;
+}
+
 .header-text > h2 > a {
   color: #444;
   border: none;
@@ -108,7 +112,7 @@ footer {
 
 .posts {
   text-align: center;
-  padding-top: 5%;
+  /*padding-top: 5%;*/
 }
 
 .posts li {  
