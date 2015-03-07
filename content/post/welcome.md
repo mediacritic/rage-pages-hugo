@@ -37,5 +37,4 @@ With that being said, I despise political correctness. I hate the 'movement', th
 
 I will be politically incorrect on this blog. Take it or leave it. The truth hurts sometimes but that doesn't make it any less true.
 
-While I'm on this short rant I'll also say this. I'll let you know when I'm being offensive. You may be offended by some or even all of what I say but let's make one thing clear, just because your fucking offended does NOT mean AT ALL that I'm being offensive. Just go noodle on that for a while.
-
+While I'm on this short rant I'll also say this. I'll let you know when I'm being offensive. You may be offended by some or even all of what I say but let's make one thing clear. Just because your fucking offended does NOT mean AT ALL that I'm being offensive. Just go noodle on that for a while.
